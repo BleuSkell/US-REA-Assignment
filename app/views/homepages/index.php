@@ -14,6 +14,8 @@
 
             <a href="<?= URLROOT; ?>/Countries/index">Landen van de Wereld</a> |
 
+            <a href="<?= URLROOT; ?>/"></a>
+
         </div>
         
         <div class="col-2"></div>
