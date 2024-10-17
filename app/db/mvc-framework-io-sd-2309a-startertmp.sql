@@ -20,8 +20,8 @@ SET time_zone = "+00:00";
 --
 -- Database: `mvcframework-io-sd-2309a-startertmp`
 --
-CREATE DATABASE IF NOT EXISTS `mvcframework-io-sd-2309a-startertmp` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci;
-USE `mvcframework-io-sd-2309a-startertmp`;
+CREATE DATABASE IF NOT EXISTS `US_REA_Kyano_A` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci;
+USE `US_REA_Kyano_A`;
 
 -- --------------------------------------------------------
 

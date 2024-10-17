@@ -1,0 +1,5 @@
+This repository and code has been made by:
+- BleuSkell
+
+MVC-Framework used has been made by:
+- adruijter

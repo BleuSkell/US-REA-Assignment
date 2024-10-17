@@ -8,7 +8,7 @@
 ******************************************************/
 
 -- Selecteer de juiste database voor je stored procedure
-use `mvcframework-io-sd-2309a-startertmp`;
+use `US_REA_Kyano_A`;
 
 -- Verwijder de oude stored procedure
 DROP PROCEDURE IF EXISTS spDeleteCountryById;
